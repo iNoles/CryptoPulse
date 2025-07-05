@@ -36,7 +36,7 @@
 
 ## 📸 Screenshots
 
-Coming Soon
+![Main](images/main.png)
 
 ## 🔮 Future Improvements
 
